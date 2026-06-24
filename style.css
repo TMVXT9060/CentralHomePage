@@ -48,6 +48,12 @@ body {
     line-height: 1.2;
 }
 
+@media (max-width: 768px) {
+    .hero-text h1 {
+        font-size: 2rem;
+    }
+}
+
 .hero-text p {
     margin-top: 15px;
     font-size: 2rem;

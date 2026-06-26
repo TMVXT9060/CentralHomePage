@@ -59,6 +59,7 @@ body {
 .hero-text p {
     margin-top: 15px;
     font-size:clamp(1rem,2.2vw,2rem);
+    color: #FFFF00;
 }
 
 /* =========================
